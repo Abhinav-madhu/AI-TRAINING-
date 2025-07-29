@@ -192,7 +192,5 @@ Linear algebra, probability, statistics
 
 
 
----
 
-Let me know if you want a PDF or presentation version of this!
 
